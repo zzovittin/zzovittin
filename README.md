@@ -61,38 +61,31 @@ Open to full-time software development opportunities.
 
 ## 📂 Featured Projects
 
-### ERP Empresarial B2B
+### 🏢 ERP Empresarial B2B
 
 Sistema integrado de gestão empresarial com arquitetura
-multi-tenant e módulos de gestão financeira, cadastros,
-estoque e CRM.
+multi-tenant, gestão financeira, cadastros, estoque e CRM.
 
 **Stack:** Java, Spring Boot, PostgreSQL, Docker,
 Flyway e REST APIs.
 
-**Status:** Em desenvolvimento.
+[📂 View Project & Technical Documentation](https://github.com/zzovittin/erp-b2b-showcase)
 
-### PDV — Point of Sale
+---
 
-Sistema de ponto de venda voltado ao segmento de bares
-e restaurantes, com gestão de vendas, estoque e comandas.
+### 🤖 WhatsApp Appointment Automation
 
-**Stack:** Java, Spring Boot, PostgreSQL e Docker.
-
-**Status:** Em desenvolvimento.
-
-### WhatsApp Appointment Automation
-
-Solução de atendimento automatizado para clínicas,
-com gerenciamento de agendamentos, disponibilidade
-de horários, sessões e cancelamentos.
+Sistema de atendimento automatizado para clínicas,
+com gerenciamento de agendamentos, sessões,
+disponibilidade de horários e cancelamentos.
 
 **Stack:** n8n, JavaScript, SQL e PostgreSQL.
 
-**Status:** Em desenvolvimento.
+[📂 View Project & Technical Documentation](https://github.com/zzovittin/whatsapp-bot-showcase)
 
-> Os códigos-fonte dos projetos empresariais são privados
-> por questões de propriedade intelectual e confidencialidade.
+> Os códigos-fonte dos projetos empresariais são
+> privados por questões de propriedade intelectual
+> e confidencialidade.
 
 ---
 
